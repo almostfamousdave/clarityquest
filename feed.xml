@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Clarity Quest</title>
-    <link href="https://clarityquest-publii.pages.dev/feed.xml" rel="self" />
-    <link href="https://clarityquest-publii.pages.dev" />
+    <link href="https://clarityquest.info/feed.xml" rel="self" />
+    <link href="https://clarityquest.info" />
     <updated>2025-07-03T08:52:39-05:00</updated>
     <author>
         <name>David Kuykendall</name>
     </author>
-    <id>https://clarityquest-publii.pages.dev</id>
+    <id>https://clarityquest.info</id>
 
     <entry>
         <title>Hello World</title>
         <author>
             <name>Almostfamousdave</name>
         </author>
-        <link href="https://clarityquest-publii.pages.dev/hello-world-2.html"/>
-        <id>https://clarityquest-publii.pages.dev/hello-world-2.html</id>
+        <link href="https://clarityquest.info/hello-world-2.html"/>
+        <id>https://clarityquest.info/hello-world-2.html</id>
             <category term="helloworld"/>
 
         <updated>2025-07-03T08:41:59-05:00</updated>
