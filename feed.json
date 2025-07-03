@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Clarity Quest",
     "description": "",
-    "home_page_url": "https://clarityquest.info",
-    "feed_url": "https://clarityquest.info/feed.json",
+    "home_page_url": "https://clarityquest-publii.pages.dev",
+    "feed_url": "https://clarityquest-publii.pages.dev/feed.json",
     "user_comment": "",
     "author": {
         "name": "David Kuykendall"
     },
     "items": [
         {
-            "id": "https://clarityquest.info/hello-world-2.html",
-            "url": "https://clarityquest.info/hello-world-2.html",
+            "id": "https://clarityquest-publii.pages.dev/hello-world-2.html",
+            "url": "https://clarityquest-publii.pages.dev/hello-world-2.html",
             "title": "Hello World",
             "summary": "Hello World, this is my first post.",
             "content_html": "<p>Hello World, this is my first post.</p>",
