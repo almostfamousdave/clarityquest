@@ -3,30 +3,10 @@
     <title>Clarity Quest</title>
     <link href="https://clarityquest.info/feed.xml" rel="self" />
     <link href="https://clarityquest.info" />
-    <updated>2025-07-03T08:52:39-05:00</updated>
+    <updated>1969-12-31T18:00:00-06:00</updated>
     <author>
         <name>David Kuykendall</name>
     </author>
     <id>https://clarityquest.info</id>
 
-    <entry>
-        <title>Hello World</title>
-        <author>
-            <name>AlmostFamousDave</name>
-        </author>
-        <link href="https://clarityquest.info/hello-world-2.html"/>
-        <id>https://clarityquest.info/hello-world-2.html</id>
-
-        <updated>2025-07-03T08:41:59-05:00</updated>
-            <summary>
-                <![CDATA[
-                    Hello World, this is my first post.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Hello World, this is my first post.</p>
-            ]]>
-        </content>
-    </entry>
 </feed>
